@@ -1,0 +1,5 @@
+com\promineotech\mavenProject\repository\FriendRepository.class
+com\promineotech\mavenProject\service\FriendsService.class
+com\promineotech\mavenProject\entity\Friend.class
+com\promineotech\mavenProject\App.class
+com\promineotech\mavenProject\controllers\FriendsController.class
